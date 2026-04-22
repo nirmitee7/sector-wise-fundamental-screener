@@ -21,7 +21,7 @@ To perform sector-wise fundamental analysis and identify top-performing stocks u
 
 
 # Tools Used
-- Microsoft Excel 
+- Microsoft Excel(Advance)
 
 # Future Improvements
 - Automate data fetching using APIs
