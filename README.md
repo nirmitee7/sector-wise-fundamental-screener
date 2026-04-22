@@ -14,10 +14,10 @@ To perform sector-wise fundamental analysis and identify top-performing stocks u
 
 
 # Key Insights
-•	Banking sector shows a strong leverage structure with mixed profitability performance
-•	Consumer Durables ranks highest in overall stability and low financial risk 
-•	Automobile sector leads in growth but shows moderate leverage impact 
-•	Sectoral differences highlight varying capital structures and growth patterns
+-	Banking sector shows a strong leverage structure with mixed profitability performance
+-	Consumer Durables ranks highest in overall stability and low financial risk
+-	Automobile sector leads in growth but shows moderate leverage impact
+-	Sectoral differences highlight varying capital structures and growth patterns
 
 
 # Tools Used
