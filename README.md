@@ -7,10 +7,10 @@ To perform sector-wise fundamental analysis and identify top-performing stocks u
 
 # Methodology
 - Sector segmentation: Banking, Automobile, Consumer Durables
-Collected quarterly financial data and used financial ratios (profitability, leverage, valuation and Growth )
-Calculated key ratios (ROE, ROCE, D/E, P/E) 
-Assigned weights to each parameter 
-Computed composite score to rank companies
+- Collected quarterly financial data and used financial ratios (profitability, leverage, valuation and Growth )
+- Calculated key ratios (ROE, ROCE, D/E, P/E)
+- Assigned weights to each parameter
+- Computed composite score to rank companies
 
 
 # Key Insights
